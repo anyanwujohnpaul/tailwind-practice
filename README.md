@@ -47,5 +47,5 @@ Simplify responsive design
 3. Components 
 4. Responsiveness
 
-stopped at 14:08
+stopped at 51:30
 
